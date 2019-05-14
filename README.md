@@ -1,2 +1,8 @@
 # wifi_password_creater
 WiFi随机密码生成器
+这是一个关于WiFi随机密码生成器的程序，
+可生成包括大小写字母、数字的WiFi密码（不包括特殊符号）
+
+creat_password方法是创建不含重复元素的WiFi密码
+creat_password2方法是创建包含重复元素的WiFi密码
+
